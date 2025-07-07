@@ -1,6 +1,6 @@
 ## Greetings
 
-I work as an Quantitative Analyst at Morgan Stanley as part of our Parametric Portfolio Associates division, focusing on futures strategies and bond markets.
+I work as an Quantitative Analyst at Morgan Stanley, focusing on futures strategies and liability-driven investing.
 
 - I’m a part-time student at: Georgia Tech pursuing a Master of Science in Computer Science (Machine Learning specialization).
 - I'm reading:
